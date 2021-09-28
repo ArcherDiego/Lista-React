@@ -1,0 +1,7 @@
+export { default as brownSugar } from './brownSugar.jpg'
+export { default as butter } from './butter.jpg'
+export { default as dropsChocolate } from './dropsChocolate.jpg'
+export { default as eggs } from './eggs.jpg'
+export { default as sugar } from './sugar.jpg'
+export { default as vanillaEssence } from './vanillaEssence.jpg'
+export { default as wheatFlour } from './wheatFlour.jpeg'
